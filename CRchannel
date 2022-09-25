@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",ANEXIÃ“N TV
+http://comag.rip:8000/00159101576765/61790209632447/205646?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Antena Seis TV (720p) [Geo-blocked]
+http://inliveserver.com:1935/14510/14510/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",CANAL 13
+http://topstb.com:8000/50656250782258/27115840859269/204873?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",CANAL 8 COSTA RICA
+http://comag.rip:8000/00159101576765/61790209632447/205829?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Colosal
+http://topstb.com:8000/50656250782258/27115840859269/204865?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Undefined",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",FUTV (OPC1)
+http://topstb.com:8000/50656250782258/27115840859269/204870?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",MULTIMEDIOS
+http://topstb.com:8000/50656250782258/27115840859269/204872?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",REPRETEL 4
+http://topstb.com:8000/50656250782258/27115840859269/204876?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",STV
+http://topstb.com:8000/50656250782258/27115840859269/204868?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",STV El Camal Familiar (720p) [Not 24/7]
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",TELETICA 7
+http://topstb.com:8000/50656250782258/27115840859269/204874?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Sport",TIGO SPORTS
+http://comag.rip:8000/00159101576765/61790209632447/205241?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",TV Sur Canal 9 (480p) [Not 24/7]
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",TeleSUR Costa Rica (720p) [Not 24/7]
+http://k3.usastreams.com/telesur/telesur/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",TeleSUR Costa Rica (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Telered Television (720p) [Not 24/7]
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Telesistema (486p)
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="Undefined",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Sport",Tigo Sports
+http://topstb.com:8000/50656250782258/27115840859269/204878?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Sport",Tigo Sports
+http://comag.rip:8000/00159101576765/61790209632447/205240?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Tour channel
+http://topstb.com:8000/50656250782258/27115840859269/204864?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",VM Latino (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?checkedby:iptvcat.net
